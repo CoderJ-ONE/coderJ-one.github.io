@@ -1,13 +1,13 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
-      - C++
       - Python
-      - Design Patterns
+      - C++
+      - Machine Learning
+      - CV
 
 - name: Mobile Developer Keywords
   keywords:
-      - Android
+      - IOS
       - Reverse Engineering
 
 - name: Windows Developer Keywords
