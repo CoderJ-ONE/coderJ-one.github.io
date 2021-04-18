@@ -24,15 +24,33 @@ BIF 就是 Built-in Functions，内置函数。为了方便程序员快速编写
 
 还有help(*)函数的作用类似于c语言中库函数的描述文档
 
-![](/images/posts/python/3.png)
+![](/images/posts/java/3.png)
 
 ## 基本语法操作代码：
 
-![](/images/posts/python/1.png)
+![](/images/posts/java/1.png)
 
-![](/images/posts/python/2.png)
+![](/images/posts/java/2.png)
 
-![](/images/posts/python/4.png)
+![](/images/posts/java/4.png)
+
+上面可以注意到 python语言中if和else的控制语句并没有所谓的括号和大括号，而是利用缩进来控制
+
+所以缩进是python语法的关键！缩进错误了可能导致整个程序崩溃。
+
+![](/images/posts/java/5.png)
+
+![](/images/posts/java/6.png)
+
+下面是一些基本的运算符：
+
+![](/images/posts/java/7.png)
+
+注意不同运算符之间的比较级关系
+
+![](/images/posts/java/8.png)
+
+![](/images/posts/java/9.png)
 
 
 
