@@ -52,5 +52,43 @@ BIF 就是 Built-in Functions，内置函数。为了方便程序员快速编写
 
 ![](/images/posts/python/9.png)
 
+python语言下的for循环和控制符：
 
+语法形式   for 目标 in 表达式：
+
+```cpp
+str = "hello world"
+for i in str:
+    print(i,end=' ')
+print('\n')
+each = ["Hello","Python"]
+for i in each:
+    print(i,len(i))
+#rang()函数
+for i in range(1,10,2):  #输出1-10内从1 开始间隔步数为2的数据
+    print(i)
+print("--------\n")
+for i in range(1,10,2):
+    if i==3 : continue
+    elif i==7 : break
+    print(i)
+
+```
+
+输出的结果：
+
+```python
+h e l l o   w o r l d 
+
+Hello 5
+Python 6
+1
+3
+5
+7
+9
+--------
+1
+5
+```
 
