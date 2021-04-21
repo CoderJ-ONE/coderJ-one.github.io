@@ -65,7 +65,8 @@ each = ["Hello","Python"]
 for i in each:
     print(i,len(i))
 #rang()函数
-for i in range(1,10,2):  #输出1-10内从1 开始间隔步数为2的数据
+#输出1-10内从1 开始间隔步数为2的数据
+for i in range(1,10,2):  
     print(i)
 print("--------\n")
 for i in range(1,10,2):
