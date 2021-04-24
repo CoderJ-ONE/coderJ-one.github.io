@@ -2,7 +2,7 @@
 
 layout: post
 title: Machine Learning概念
-categories: machine learning
+categories: machine-learning
 description: 对机器学习的概念进行总结
 keywords: Machine Learning
 ---
