@@ -42,7 +42,7 @@ f: y = 10.0 + 9.0·x_{cp} \\这种就是单个特征
 $$
 **损失函数：**是用于评判所选择模型的好坏的。
 
-![](images\posts\machine-learning\5-18.jpg)
+![](images\posts\machine learning\5-18.jpg)
 $$
 \begin{aligned}  
 L(f) & = \sum_{n=1}^{10}\left ( \hat{y}^n - f(x_{cp}^n) \right )^2\\
@@ -58,7 +58,7 @@ $$
 
 对于一元线性模型
 
-![](images\posts\machine-learning\5-182.jpg)
+![](images\posts\machine learning\5-182.jpg)
 $$
 首先在这里引入一个概念 学习率 ：移动的步长 如同图中的η\\
 步骤1：随机选取一个{w}^0\\
@@ -72,9 +72,9 @@ $$
 
 同样的对于多元线性模型
 
-![](images\posts\machine-learning\5-183.jpg)
+![](images\posts\machine learning\5-183.jpg)
 
-![](images\posts\machine-learning\5-184.jpg)
+![](images\posts\machine learning\5-184.jpg)
 
 这里则是按照求偏导的方式来寻找最低点，偏导的动态视频演示（在B站有介绍）。
 

@@ -17,7 +17,7 @@ machine learning ≈ looking  for a function
 
 机器学习的相关技术：
 
-![](images\posts\machine-learning\24-1.png)
+![](images\posts\machine learning\24-1.png)
 
 
 
