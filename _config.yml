@@ -4,8 +4,8 @@
 baseurl:
 url: https://coderj-one.github.io
 date_format: "ordinal"
-title: 可爱Jerry的Blog
-subtitle: "一个IT技术迷"
+title: In-Context Leaning Zoo
+subtitle: "Datasets&Models For ICL Research"
 description: "目前研究方向为人工智能方向"
 keywords: IT, AI, CV, NLP, DL
 timezone: Asia/Shanghai
