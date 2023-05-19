@@ -5,7 +5,7 @@ baseurl:
 url: https://coderj-one.github.io
 date_format: "ordinal"
 title: In-Context Leaning Zoo
-subtitle: "Datasets&Models For ICL Research"
+subtitle: "Datasets and Models For ICL Research"
 description: "目前研究方向为人工智能方向"
 keywords: IT, AI, CV, NLP, DL
 timezone: Asia/Shanghai
